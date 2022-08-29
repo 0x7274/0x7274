@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @tobias-rauch
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning to improve myself
-- 💞️ I’m looking to collaborate, hit me up
+- 💞️ I’m looking to collaborate on a few different projects:
+        1. Pwnagotchi rework with external Wifi Pineapple as Wifi Interfaces
+        2. Selfhosted Service Solutions
+        3. 
 - 📫 You can reach me via e-mail on my website
 
 <!---
