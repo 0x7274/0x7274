@@ -1,11 +1,4 @@
 Interested in Cyber Security
-Looking to collaborate on a few different projects:
-
-        1. Pwnagotchi rework with external Wifi Pineapple as Wifi Interfaces
-        
-        2. Selfhosted Service Solutions
-        
-        3. 
 
 You can reach me via e-mail on my website
 
