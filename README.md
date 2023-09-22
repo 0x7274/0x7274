@@ -1,6 +1,6 @@
-Interested in Cyber Security
+learning about Cyber Security is my hobby and passion
+hmu via my website :)
 
-You can reach me via e-mail on my website
 
 <!---
 tobias-rauch/tobias-rauch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
