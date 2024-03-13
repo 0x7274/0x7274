@@ -40,17 +40,16 @@ Inspired by the dance of chaos and order, where every line of code tells a story
 
 | ------------- | ------------- |
 
-![My GitHub Stats](https://raw.githubusercontent.com/tobias-rauch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tobias-rauch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tobias-rauch&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 | ------------- | ------------- |
 
-![My GitHub Language Stats](https://raw.githubusercontent.com/tobias-rauch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tobias-rauch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-rauch&langs_count=5&theme=tokyonight)]()
-
 
 
 | ------------- | ------------- |
