@@ -51,14 +51,17 @@ Inspired by the dance of chaos and order, where every line of code tells a story
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-rauch&langs_count=5&theme=tokyonight)]()
 
+| ------------- | ------------- |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=philmalle&theme=vue-dark&background=0d1117&hide_border=true">
 
 | ------------- | ------------- |
+
 #### Public Repositories
 
 <a href="https://github.com/tobias-rauch/tobias-rauch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobias-rauch&repo=tobias-rauch&theme=buefy" />
 </a>
-
 
 
 
