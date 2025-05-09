@@ -8,7 +8,6 @@
 </p>
 
 
-| ------------- | ------------- |
 ```go
 package main
 import "fmt"
@@ -46,7 +45,7 @@ func main() {
     fmt.Printf("%+v\n", Tobias)
 }
 ```
-| ------------- | ------------- |
+
 <a href="https://github.com/tobias-rauch/tobias-rauch/raw/main/7AEB292A8DCD562898D3C2D64B31E5B03FAB4761.asc">PGP</a>
 Inspired by the dance of chaos and order, every line of code tells a story.
 
