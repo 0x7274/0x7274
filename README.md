@@ -34,8 +34,8 @@ func main() {
         },
         "Tools": map[string][]string{
             "Metal": {
-                "Ryzen 9 5950X, GTX 1070, 32GB RAM, 2TB SSD / 4TB HDD RAID",
-                "Ryzen 5 3600X, Radeon 5700XT, 2TB SSD",
+                "Ryzen 9 5950X, GTX 1070, 32GB RAM, 2TB SSD / 4TB HDD RAID 1+0",
+                "Ryzen 5 3600X, Radeon 5700XT, 32GB RAM, 2TB SSD",
                 "AWS 48vCPUs - g5.12xlarge Cracking Station",
                 "Prusa MK4s",
             },
